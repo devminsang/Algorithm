@@ -21,3 +21,12 @@
 #### 풀이
 
 - https://wood-cook-417.notion.site/G4-15926-921990881dbb4ba3b3d5081f476d408c
+
+
+### 백준 - [G4] Web Pages _ 5076
+
+- https://www.acmicpc.net/problem/5076
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/G4-Web-Pages-5076-1b7ae3067613453ba1249bcc20cfb928
