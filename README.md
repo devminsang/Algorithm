@@ -14,6 +14,14 @@
 
 ## 1. 스택
 
+### 백준 - [P5] 히스토그램 _ 1725
+
+- https://www.acmicpc.net/problem/1725
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/P5-1725-6e0dbb9507114372badd1bfc8fcc21b7
+
 ### 백준 - [G4] 현욱은 괄호왕이야!! _ 15926
 
 - https://www.acmicpc.net/problem/15926
