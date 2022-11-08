@@ -22,6 +22,8 @@
 
 - https://wood-cook-417.notion.site/P5-1725-6e0dbb9507114372badd1bfc8fcc21b7
 
+<br>
+
 ### 백준 - [G4] 현욱은 괄호왕이야!! _ 15926
 
 - https://www.acmicpc.net/problem/15926
@@ -30,6 +32,7 @@
 
 - https://wood-cook-417.notion.site/G4-15926-921990881dbb4ba3b3d5081f476d408c
 
+<br>
 
 ### 백준 - [G4] Web Pages _ 5076
 
@@ -39,6 +42,7 @@
 
 - https://wood-cook-417.notion.site/G4-Web-Pages-5076-1b7ae3067613453ba1249bcc20cfb928
 
+<br>
 
 ### 백준 - [S2] 스택 수열 _ 1874
 
