@@ -38,3 +38,12 @@
 #### 풀이
 
 - https://wood-cook-417.notion.site/G4-Web-Pages-5076-1b7ae3067613453ba1249bcc20cfb928
+
+
+### 백준 - [S2] 스택 수열 _ 1874
+
+- https://www.acmicpc.net/problem/1874
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S2-1874-87af29af96c74089a073268c11052b5e
