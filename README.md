@@ -46,7 +46,7 @@
 
 ### 백준 - [S2] 에디터 _ 1406
 
--https://www.acmicpc.net/problem/1406
+- https://www.acmicpc.net/problem/1406
 
 #### 풀이
 
