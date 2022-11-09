@@ -44,6 +44,16 @@
 
 <br>
 
+### 백준 - [S2] 에디터 _ 1406
+
+-https://www.acmicpc.net/problem/1406
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S2-1406-47ba9105e3ab497d8d110ecbc7e8d8d0
+
+<br>
+
 ### 백준 - [S2] 스택 수열 _ 1874
 
 - https://www.acmicpc.net/problem/1874
