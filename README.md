@@ -67,6 +67,16 @@
 
 ## 2. 큐
 
+### 백준 - [S3] 프린터 큐 _ 1966
+
+- https://www.acmicpc.net/problem/1966
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S3-1966-1c53b1afd16e4d4ab9cac0f1c28aaf99
+
+<br>
+
 ### 백준 - [S4] 요세푸스 문제 _ 1158
 
 - https://www.acmicpc.net/problem/1158
