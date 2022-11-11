@@ -11,6 +11,7 @@
 ## 목차
 
 1. **[스택](#1-스택)**
+2. **[큐](#2-큐)**
 
 ## 1. 스택
 
@@ -61,3 +62,14 @@
 #### 풀이
 
 - https://wood-cook-417.notion.site/S2-1874-87af29af96c74089a073268c11052b5e
+
+
+## 2. 큐
+
+### 백준 - [S4] 요세푸스 문제 _ 1158
+
+- https://www.acmicpc.net/problem/1158
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S4-1158-e4ed8522f1794359bff3705670c00eba
