@@ -74,3 +74,13 @@
 #### 풀이
 
 - https://wood-cook-417.notion.site/S4-1158-e4ed8522f1794359bff3705670c00eba
+
+<br>
+
+### 백준 - [S4] 기념품 _ 12873
+
+- https://www.acmicpc.net/problem/12873
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S4-12873-d1166d9935ef4e8a8435fc3fd28e6487
