@@ -67,6 +67,16 @@
 
 ## 2. 큐
 
+### 백준 - [S1] 트럭 _ 13335
+
+- https://www.acmicpc.net/problem/13335
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S1-13335-1386d51bfb164cc6925b0acde958acc0
+
+<br>
+
 ### 백준 - [S3] 프린터 큐 _ 1966
 
 - https://www.acmicpc.net/problem/1966
