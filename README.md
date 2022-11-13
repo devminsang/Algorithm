@@ -64,7 +64,7 @@
 
 - https://wood-cook-417.notion.site/S2-1874-87af29af96c74089a073268c11052b5e
 
-<br>
+<hr>
 
 ## 2. 큐
 
@@ -106,7 +106,7 @@
 
 - https://wood-cook-417.notion.site/S4-12873-d1166d9935ef4e8a8435fc3fd28e6487
 
-<br>
+<hr>
 
 ## 3. DP
 
