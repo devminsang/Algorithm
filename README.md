@@ -117,3 +117,13 @@
 #### 풀이
 
 - https://wood-cook-417.notion.site/S1-1-2-12852-ec8593b2a27f4b4caebc9ab05c8217d8
+
+<br>
+
+### 백준 - [S3] 2 x n 타일링 _ 11726
+
+- https://www.acmicpc.net/problem/11726
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S3-2-x-n-11726-6c4b4dbf2c414c0a8058d70ac1a25a6d
