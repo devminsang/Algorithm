@@ -120,6 +120,16 @@
 
 <br>
 
+### 백준 - [S2] 타일링 _ 1793
+
+- https://www.acmicpc.net/problem/1793
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S2-1793-a2a4e6f9f36b4369a540af3b2f7b2905
+
+<br>
+
 ### 백준 - [S3] 2 x n 타일링 _ 11726
 
 - https://www.acmicpc.net/problem/11726
