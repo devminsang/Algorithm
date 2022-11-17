@@ -13,6 +13,7 @@
 1. **[스택](#1-스택)**
 2. **[큐](#2-큐)**
 3. **[DP](#3-DP)**
+4. **[수학](#4-수학)**
 
 ## 1. 스택
 
@@ -137,3 +138,15 @@
 #### 풀이
 
 - https://wood-cook-417.notion.site/S3-2-x-n-11726-6c4b4dbf2c414c0a8058d70ac1a25a6d
+
+<hr>
+
+## 4. 수학
+
+### 백준 - [S3] 조합 _ 2407
+
+- https://www.acmicpc.net/problem/2407
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S3-2407-1e2046ea8a60423cbe460dbc5eabbf92
