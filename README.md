@@ -149,6 +149,16 @@
 
 - https://wood-cook-417.notion.site/B1-2775-acccee7377db414daf6066a7e420bbd1
 
+<br>
+
+### 백준 - [B1] 피보나치 수 2 _ 2748
+
+- https://www.acmicpc.net/problem/2748
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/B1-2-2748-2ae6650d71ce4872ae1d20f2b7951f8f
+
 <hr>
 
 ## 4. 수학
