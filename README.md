@@ -159,6 +159,16 @@
 
 - https://wood-cook-417.notion.site/B1-2-2748-2ae6650d71ce4872ae1d20f2b7951f8f
 
+<br>
+
+### 백준 - [B1] 핸드폰 번호 궁합 - 17202
+
+- https://www.acmicpc.net/problem/17202
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/B1-17202-3a5dd3a0e2f7440fa7c9c81f393797c2
+
 <hr>
 
 ## 4. 수학
