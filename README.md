@@ -141,6 +141,16 @@
 
 <br>
 
+### 백준 - [S5] 다리 놓기 _ 1010
+
+- https://www.acmicpc.net/problem/1010
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S5-1010-cda34c4392b844fca1a8220051de1cc1
+
+<br>
+
 ### 백준 - [B1] 부녀회장이 될테야 _ 2775
 
 - https://www.acmicpc.net/problem/2775
