@@ -139,6 +139,16 @@
 
 - https://wood-cook-417.notion.site/S3-2-x-n-11726-6c4b4dbf2c414c0a8058d70ac1a25a6d
 
+<br>
+
+### 백준 - [B1] 부녀회장이 될테야 _ 2775
+
+- https://www.acmicpc.net/problem/2775
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/B1-2775-acccee7377db414daf6066a7e420bbd1
+
 <hr>
 
 ## 4. 수학
