@@ -141,6 +141,16 @@
 
 <br>
 
+### 백준 - [S3] 파도반 수열 _ 9461
+
+- https://www.acmicpc.net/problem/9461
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S3-9461-27912be957f54577818937da2a652b7c
+
+<br>
+
 ### 백준 - [S5] 다리 놓기 _ 1010
 
 - https://www.acmicpc.net/problem/1010
