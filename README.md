@@ -161,6 +161,16 @@
 
 <br>
 
+### 백준 - [S5] 이름 궁합 _ 15312
+
+- https://www.acmicpc.net/problem/15312
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S5-15312-3c8083b4ecc04ab88fba3c3f2cde9bc3
+
+<br>
+
 ### 백준 - [B1] 부녀회장이 될테야 _ 2775
 
 - https://www.acmicpc.net/problem/2775
