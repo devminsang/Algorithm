@@ -131,6 +131,16 @@
 
 <br>
 
+### 백준 - [S2] 이동하기 _ 11048
+
+- https://www.acmicpc.net/problem/11048
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S2-11048-58dee31c5bba4e1590dce9e0d3942894
+
+<br>
+
 ### 백준 - [S3] 2 x n 타일링 _ 11726
 
 - https://www.acmicpc.net/problem/11726
