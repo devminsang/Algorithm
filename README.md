@@ -141,6 +141,16 @@
 
 <br>
 
+### 백준 - [S2] 돌 게임 4 _ 9658
+
+- https://www.acmicpc.net/problem/9658
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S2-4-9658-6ded877c881f417486a8cf404bf06aa6
+
+<br>
+
 ### 백준 - [S3] 2 x n 타일링 _ 11726
 
 - https://www.acmicpc.net/problem/11726
