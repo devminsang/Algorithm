@@ -171,6 +171,16 @@
 
 <br>
 
+### 백준 - [S3] 계단 오르기 _ 2579
+
+- https://www.acmicpc.net/problem/2579
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S3-2579-0c03c92c101f42529f0e153a57aa4d9f
+
+<br>
+
 ### 백준 - [S5] 다리 놓기 _ 1010
 
 - https://www.acmicpc.net/problem/1010
