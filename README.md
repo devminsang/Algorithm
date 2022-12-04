@@ -151,6 +151,16 @@
 
 <br>
 
+### 백준 - [S2] 상자 넣기 _ 1965
+
+- https://www.acmicpc.net/problem/1965
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S2-1965-63856564ea194c5f87146647762c1b24
+
+<br>
+
 ### 백준 - [S3] 2 x n 타일링 _ 11726
 
 - https://www.acmicpc.net/problem/11726
