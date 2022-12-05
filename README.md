@@ -131,6 +131,16 @@
 
 <br>
 
+### 백준 - [S2] 수익 _ 4097
+
+- https://www.acmicpc.net/problem/4097
+
+#### 풀이
+
+- https://wood-cook-417.notion.site/S2-4097-da5eed3fdb2e49b59734df63b4f8ebf9
+
+<br>
+
 ### 백준 - [S2] 이동하기 _ 11048
 
 - https://www.acmicpc.net/problem/11048
